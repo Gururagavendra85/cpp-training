@@ -8,7 +8,7 @@ To prepare for this assignment please go through the following tutorials:
 To prepare for this assignment please go through the following tutorials:
 1. [Function and Class templates](https://www.javatpoint.com/cpp-templates)
 
-# Assignment 3: [Template Specialization](https://github.com/Gamezar/cpp-training/tree/main/templates/tasks/class)
+# Assignment 3: [Template Specialization](https://github.com/Gamezar/cpp-training/tree/main/templates/tasks/specialization)
 
 To prepare for this assignment please go through the following tutorials:
 1. [Template Specialization](https://www.geeksforgeeks.org/template-specialization-c/)
