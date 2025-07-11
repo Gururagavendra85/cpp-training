@@ -1,6 +1,7 @@
 #include "solution.h"
 #include <gtest/gtest.h>
 #include <string>
+#include <random>
 
 int add(int a, int b) {
     return a + b;
